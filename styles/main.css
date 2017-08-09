@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(199, 200, 205);
+}
+hr {
+  border: solid;
+  border-color: rgb(137, 218, 186);
+}
+li {
+  font-style: italic;
+  font-family: serif;
+  font-size: 25px;
+}
+img {
+  border-style: ridge;
+  border: solid;
+}
+/*footer {
+  background-color: rgb(131, 131, 131);
+}*/
